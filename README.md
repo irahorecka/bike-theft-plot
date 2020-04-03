@@ -7,8 +7,8 @@ A Jupyter notebook repository for plotting reported bike theft (bikewise.org) fr
 2) Converting these figures to a gif.
 <br><br>
 <p align = 'center'>
-<img src=https://i.imgur.com/6BSmZ4J.gif alt="2018 - 2020 bike theft gif"
-    width=500><br>
+<img src=https://i.imgur.com/RIcHkby.gif alt="2018 - 2020 bike theft gif"
+    width=600><br>
 </p>
 
 ## **Python Setup**<br>
