@@ -5,7 +5,7 @@ idna==2.9
 imageio==2.8.0
 kiwisolver==1.2.0
 matplotlib==3.2.1
-numpy==1.18.2
+numpy==1.21.0
 Pillow==9.0.0
 pyparsing==2.4.6
 python-bikewise==0.1.0
