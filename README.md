@@ -1,4 +1,4 @@
-# Bike_theft_plot
+# bike-theft-plot
 A Jupyter notebook repository for plotting reported bike theft (bikewise.org) from January 1, 2018 to April 3, 2020.
 
 ## **Introduction**<br>
